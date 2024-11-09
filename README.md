@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d725a86a-3bf8-43e4-bfdb-f8599f887110)
+
 # Project Title
 
 A brief description of what this project does and who it's for
